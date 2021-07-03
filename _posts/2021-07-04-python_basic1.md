@@ -1,3 +1,15 @@
+---
+title: "Python 변수타입과 자료구조"
+excerpt_separator: "<!--more-->"
+categories:
+  - Python 기초
+tags:
+  - Post Formats
+  - readability
+  - standard
+---
+
+
 ```python
 # 변수 선언 Type 명시 없이 자동으로
 a ,b = 3 ,3
