@@ -1,3 +1,14 @@
+---
+title: "Python 기본 문법"
+excerpt_separator: "<!--more-->"
+categories:
+  - Python 기초
+tags:
+  - Post Formats
+  - readability
+  - standard
+---
+
 ```python
 # 제어문
 a = 5
